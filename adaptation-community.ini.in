@@ -4,5 +4,4 @@ pattern = Feature community adaptation
 description = Enable ssu for community ports
 
 [repositories]
-adaptation-community = http://repo.merproject.org/obs/home:/birdzhang:/hybris-15.1/sailfishos_%(release)/
-
+adaptation-community = https://repo.sailfishos.club/%(release)/@VENDOR@-@DEVICE@/%(arch)/
